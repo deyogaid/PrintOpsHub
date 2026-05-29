@@ -1,0 +1,6 @@
+{
+  "name": "PrintOps Hub",
+  "description": "Centralized operational dashboard for a multi-branch printing company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
